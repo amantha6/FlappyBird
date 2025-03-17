@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useRef, useState } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import './styles.css';
 
 function App() {
